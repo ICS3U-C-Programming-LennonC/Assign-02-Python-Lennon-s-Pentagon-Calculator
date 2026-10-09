@@ -1,3 +1,3 @@
 # Assign-02-Python-Lennon-s-Pentagon-Calculator
-print("This program calculates the area and the perimeter of a Pentagon from just one side length, and was created in Python.\n")
+This program calculates the area and the perimeter of a Pentagon from just one side length, and was created in Python.
 [![Ms Raffin's Super Linter](https://github.com/ICS3U-C-Programming-LennonC/Assign-02-Python-Lennon-s-Pentagon-Calculator/workflows/Ms%20Raffin's%20Super%20Linter/badge.svg)](https://github.com/ICS3U-C-Programming-LennonC/Assign-02-Python-Lennon-s-Pentagon-Calculator/actions/) 
