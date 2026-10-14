@@ -11,7 +11,7 @@ def main():
     length = float(input("Welcome to Lennon’s Pentagon Calculator. Please enter the side length of your pentagon (cm): "))
 
     # Calculate the area and perimeter of the pentagon.
-    area = (1 / 4) * math.sqrt(5 * (5 + 2 * math.sqrt(5))) * (length**2)
+    area = (1 / 4) * math.sqrt(5 * (5 + 2 * math.sqrt(5))) * (length ** 2)
 
     perimeter = 5 * length
 
